@@ -1,0 +1,17 @@
+Algoritma
+step 1 mendeklerasika volume, phi, jari-jari, dan tinggi.
+step 2 masukan nilai phi=3,14 jari-jari = 3 dan tinggi =5
+step 3 pangkatkan jari jari dengan 2
+step 3 menghitung volume = phi*jari-jari*tinggi
+step 5 menampilkan hasil dari volume tabung
+
+pseudecode
+
+deklerasi
+var volume, phi, jari-jari, dan tinggi
+
+phi <- 3,14
+jari-jari<- jari jari**
+tinggi <- 5
+volume = phi * jari-jari*tinggi
+write(volume)

@@ -1,0 +1,28 @@
+Algoritma:
+Step 1 Jika n = 0, return nilai m sebagai hasil dan stop. Jika tidak, kembali ke Step 2.
+Step 2 Bagi nilai m dengan n, masukan nilai sisanya ke r.
+Step 3 Masukan nilai n ke m dan nilai r ke n. Kembali ke Step 1.
+Pseudocode:
+While n ≠ 0 do
+  r ← m mod n
+  m ← n
+  n ← r
+return m
+
+Algoritma:
+step 1 jika c=0, return nilai m sebagai hasil dan berhenti. jika tidak kembali ke step 2
+step 2 bagi nilai a dan b, masukan nilai sisa baginya ke r 
+step 3 masukan nilai b ke a dan nilai r ke b. kemudian kita akan mendapatkan nilai FPB dari a dan b adalah r
+step 4 kalikan nilai a dengan b, masukan hasil nilainya ke s
+step 5 bagi nilai s dengan nilai sisa r, masukan hasilnya ke q. kembali ke step 1
+
+pseudocode:
+While c ≠ 0 do
+  r ← a mod b
+  a ← b
+  b ← r
+  
+  s = a*b
+  q = s/r
+return a
+

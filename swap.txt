@@ -1,0 +1,17 @@
+Latihan mengubah manggis ke po
+
+algortima
+step 1 definisikan variabel piring 1, piring 2, dan piring 3
+step 2 masukan piring 2 ke piring 3 sehingga piring 2 null
+step 3 masukan piring 1 ke piring 2 sehingga piring 1 null
+setp 4 masukan piring 3 ke piring 1 sehingga piring 3 kosong 
+
+
+pseudecode
+define swap (p1, p2)
+ p1 -> Manggis
+`p2 -> pisang
+
+ P3 = p2
+ p2 = p1
+ p1 = p3

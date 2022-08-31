@@ -1,0 +1,13 @@
+Algoritma 
+step 1 deklerasi luas, panjang, tinggi
+step 2 masukan panjang = 5, tinggi= 3
+step 3 menghitung luas = panjang *tinggi
+step 4 menampilkan luas
+
+pseudecode
+deklerasi
+var luas, panjang, tinggi
+panjang <- 25
+tinggi <- 30
+alas*tinggi
+write(luas)
